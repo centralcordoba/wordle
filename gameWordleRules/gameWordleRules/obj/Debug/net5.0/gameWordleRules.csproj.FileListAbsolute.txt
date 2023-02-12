@@ -1,0 +1,16 @@
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\bin\Debug\net5.0\gameWordleRules.exe
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\bin\Debug\net5.0\gameWordleRules.deps.json
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\bin\Debug\net5.0\gameWordleRules.runtimeconfig.json
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\bin\Debug\net5.0\gameWordleRules.runtimeconfig.dev.json
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\bin\Debug\net5.0\gameWordleRules.dll
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\bin\Debug\net5.0\ref\gameWordleRules.dll
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\bin\Debug\net5.0\gameWordleRules.pdb
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\obj\Debug\net5.0\gameWordleRules.csproj.AssemblyReference.cache
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\obj\Debug\net5.0\gameWordleRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\obj\Debug\net5.0\gameWordleRules.AssemblyInfoInputs.cache
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\obj\Debug\net5.0\gameWordleRules.AssemblyInfo.cs
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\obj\Debug\net5.0\gameWordleRules.csproj.CoreCompileInputs.cache
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\obj\Debug\net5.0\gameWordleRules.dll
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\obj\Debug\net5.0\ref\gameWordleRules.dll
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\obj\Debug\net5.0\gameWordleRules.pdb
+C:\Users\luisemanuel.jimenez\source\repos\gameWordleRules\gameWordleRules\obj\Debug\net5.0\gameWordleRules.genruntimeconfig.cache
